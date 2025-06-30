@@ -2,18 +2,16 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Python
-  - Carbonate Chemistry
-  - C++
-  - Isotope Geochemistry
-  - Fortran
+  - Ocean Biogeochemistry
+  - Ocean Modeling
   - Paleoclimatology
+  - Marine Carbon Dioxide Removal
 ---
 
-Welcome! I'm currently pursuing a Ph.D. with a focus on carbonate chemistry and biogeochemical modeling. Specifically, I'm fascinated by the potential of [ocean alkalinity enhancement (OAE)](https://www.dosi-project.org/wp-content/uploads/Alkalinity-Enhancement-Policy-Brief.pdf) as a tool for [marine carbon dioxide removal (mCDR)](https://oceanvisions.org/ocean-based-carbon-dioxide-removal/).
+Welcome! I recently completed my Ph.D. at UC Santa Cruz, where I specialized in carbonate chemistry and ocean biogeochemical modeling. My research focused on [ocean alkalinity enhancement (OAE)](https://www.dosi-project.org/wp-content/uploads/Alkalinity-Enhancement-Policy-Brief.pdf) as a tool for [marine carbon dioxide removal (mCDR)](https://oceanvisions.org/ocean-based-carbon-dioxide-removal/), using carbon isotope tracers and ocean models to evaluate the feasibility and traceability of ocean-based CDR.
 
-Through my research, I've explored a range of projects related to OAE, from natural analogs **20,000 years ago** to simulating future OAE off the west coast of the United States. I'm also interested in using **carbon isotopes** as a tool for verifying carbon uptake after mCDR.
+My projects spanned geologic analogs from the last deglaciation to high-resolution simulations of future OAE scenarios in the California Current System. A key thread throughout my work has been the use of carbon isotopes to understand and verify carbon cycle dynamics—past, present, and future.
 
-Outside of my research, I enjoy staying active and spending time outdoors. Some of my favorite activities include playing sports, cooking, and traveling with friends and family.
+I now work full time at [Equatic](https://www.equatic.tech/), where I help lead ocean modeling and monitoring, reporting, and verification (MRV) efforts to evaluate the environmental impacts and carbon removal efficacy of our technology.
 
-Here is a list of the programming languages I use and the scientific topics that I am interested in!
+When I’m not working, I enjoy being outside—playing sports, hiking, or spending time in the ocean—and unwinding by trying new recipes in the kitchen.

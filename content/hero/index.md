@@ -1,11 +1,10 @@
 ---
-title: 'Hello World! My name is'
+title: 'Hello! My name is'
 name: 'Ryan A. Green'
-subtitle: 'Pioneering climate solutions through mCDR research.'
+subtitle: 'Advancing climate solutions with ocean-based carbon removal.'
 buttonText: 'Contact Me'
 ---
 
-I'm just finished my Ph.D. at the University of California, Santa Cruz in the [Earth System Biogeochemistry Group](https://earth-system-biogeochemistry.net/).
+I recently completed my Ph.D. at the University of California, Santa Cruz in the [Earth System Biogeochemistry Group](https://earth-system-biogeochemistry.net/), where I studied carbonate chemistry and used biogeochemical models to evaluate [ocean alkalinity enhancement](https://www.dosi-project.org/wp-content/uploads/Alkalinity-Enhancement-Policy-Brief.pdf) as a climate solution. 
 
-I use biogeochemical modeling to research abiotic [marine carbon dioxide removal (mCDR) methods](https://oceanvisions.org/ocean-based-carbon-dioxide-removal/), such as [ocean alkalinity enhancement](https://www.dosi-project.org/wp-content/uploads/Alkalinity-Enhancement-Policy-Brief.pdf) and direct [direct ocean capture](https://capturacorp.com/).
-
+I now focus on modeling and monitoring [marine carbon dioxide removal (mCDR)](https://oceanvisions.org/ocean-based-carbon-dioxide-removal/) to assess its safety and efficacy.
