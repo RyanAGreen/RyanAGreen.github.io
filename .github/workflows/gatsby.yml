@@ -51,12 +51,17 @@ jobs:
           PREFIX_PATHS: 'true'
         run: ${{ steps.detect-package-manager.outputs.manager }} run build
 
-      - name: Upload artifact
-        id: upload
-        uses: actions/upload-artifact@v4
+      # - name: Upload artifact
+      #   id: upload
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: github-pages
+      #     path: ./public/**
+      
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
         with:
-          name: github-pages
-          path: ./public/**
+          path: ./public
 
   deploy:
     needs: build
@@ -64,11 +69,15 @@ jobs:
     environment:
       name: github-pages
     steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: .
 
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v2
+      id: deployment
+      # - name: Download artifact
+      #   uses: actions/download-artifact@v4
+      #   with:
+      #     name: github-pages
+      #     path: .
+
+      # - name: Deploy to GitHub Pages
+      #   uses: actions/deploy-pages@v4
