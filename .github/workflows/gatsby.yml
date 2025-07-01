@@ -79,10 +79,16 @@ jobs:
         env:
           PREFIX_PATHS: 'true'
         run: ${{ steps.detect-package-manager.outputs.manager }} run build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      # - name: Upload artifact
+      #   uses: actions/upload-pages-artifact@v2
+      #   with:
+      #     path: ./public
+      - name: Upload Gatsby public directory
+        uses: actions/upload-artifact@v4
         with:
+          name: github-pages
           path: ./public
+
 
   # Deployment job
   deploy:
