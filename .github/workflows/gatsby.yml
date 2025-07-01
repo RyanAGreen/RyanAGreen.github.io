@@ -167,6 +167,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: github/pages@v4
+        uses: github/pages@v3
         with:
           artifact_name: github-pages
