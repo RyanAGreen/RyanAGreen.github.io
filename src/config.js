@@ -1,16 +1,16 @@
 module.exports = {
-  siteTitle: 'Ryan Green | Biogeochemical modeler | mCDR research',
+  siteTitle: 'Ryan Green | mCDR | MRV & Ocean Modeling',
   siteDescription:
-    'Ryan Green is a Ph.D. candidate at UC Santa Cruz, researching marine carbon dioxide removal methods.',
+    'Senior Scientist at Equatic working on ocean-based carbon removal.',
   siteKeywords:
-    'Ryan A. Green, Ryan, Green, RyanAGreen, biogeochemical modeler, carbonate chemistry, carbon dioxide removal, ROMS, marine carbon dioxide removal, ocean alkalinity enhancement, UC Santa Cruz, marine biogeochemistry',
+    'Ryan A. Green, Ryan, Green, RyanAGreen, biogeochemical modeler, carbonate chemistry, carbon dioxide removal, ROMS, marine carbon dioxide removal, ocean alkalinity enhancement, marine biogeochemistry',
   siteUrl: 'https://ryanagreen.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-L26XV0TNSL',
   googleVerification: 'wWnLGP99FdHTS4k53fbEgcv-KFvCBqrAOcFaANyKA9k',
   name: 'Ryan Green',
-  location: 'Santa Cruz, California',
-  email: 'rygreen@ucsc.edu',
+  location: 'Los Angeles, California',
+  email: 'ryan@equatic.tech',
   // github: 'https://github.com/RyanAGreen',
   linkedin : 'https://www.linkedin.com/in/ryangreenphd/',
 
